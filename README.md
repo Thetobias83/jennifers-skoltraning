@@ -1,12 +1,17 @@
 JENNIFERS SKOLTRÄNING – FORDON OCH TRANSPORT
 
-Öppna https://thetobias83.github.io/jennifers-skoltraning/ i en modern webbläsare.
-För lokal användning: hämta index.html och öppna filen i webbläsaren.
+Öppna den publicerade sidan: https://thetobias83.github.io/jennifers-skoltraning/
+För lokal användning: hämta index.html och öppna den i en modern webbläsare.
 Hela träningssidan ligger i en enda fil och fungerar utan internet.
 Källänkar och en eventuell extern AI-tjänst kräver internet.
 
 Innehåll:
-- 46 korta lektioner och 149 egenproducerade frågor med förklaringar.
+- 55 lektioner och 1 447 egenproducerade flervalsfrågor med förklaringar.
+- Alla 21 fordonslektioner har minst 100 frågor totalt: minst 63 flervalsfrågor och 40 öppna frågor per lektion.
+- Alla lektioner har öppna frågor med svarsstöd, utöver de 90 uppgifterna i ämnesguiderna.
+- Office: Word, Excel, PowerPoint, Outlook och filhantering från grund till fördjupning.
+- Vuxenkunskap: lön, skatt, deklaration, budget, lån, konsumenträtt, aktieskola och digital trygghet.
+- Faktakontroll med daterad granskningsomfattning, preciseringar och myndighetskällor.
 - Lärvägar A–D: 18 lättlästa ämnesguider med ordlistor, exempel och 90 öppna träningsuppgifter.
 - Egna svar och reflektioner per träningssteg; svarsstöd och länkar till betygskriterier.
 - Separata stödsektioner för gymnasiearbete (E/F), individuellt val och APL.
@@ -36,6 +41,6 @@ på en annan enhet. Exportera regelbundet, särskilt före byte av webbläsare,
 filens plats eller rensning av webbläsardata. Lokal filsparning kan fungera
 olika i olika webbläsare; exporten är den flyttbara säkerhetskopian.
 
-Regelunderlag kontrollerat 1 november 2026. Källor och avgränsningar
+Uppdaterad 2 november 2026. Granskningsomfattning och preciseringar finns under Faktakontroll. Källor och avgränsningar
 finns under Kursplan & källor i sidan. Kontrollera alltid aktuella regler
 och tillverkarens anvisningar inför verklig användning.
