@@ -6,11 +6,14 @@ Hela träningssidan ligger i en enda fil och fungerar utan internet.
 Källänkar och en eventuell extern AI-tjänst kräver internet.
 
 Innehåll:
-- 23 korta lektioner och 80 egenproducerade frågor med förklaringar.
+- 46 korta lektioner och 149 egenproducerade frågor med förklaringar.
 - Dagens pass: 7 frågor om fordon/transport och 3 från övriga spår.
 - Ämnesträning, repetition av missade frågor och övningsprov med facit efteråt.
 - B, B96/BE, C/CE, YKB och grundläggande transportteori.
-- Basövningar i gymnasiegemensamma ämnen.
+- Gymnasiegemensamma ämnen med fördjupning, inklusive Svenska 2–3 och Engelska 2.
+- Ämnesöversikt med nivåer, poäng och länkar till Skolverket, UR, Matteboken och andra lärresurser.
+- Lektioner i truck, yrkestrafik, godstransporter, distribution/fjärr, kran och fordonskombinationer.
+- Förberedelse för gymnasiearbete, individuellt val och APL.
 - C++, AI och 3D-print som fristående kunskaper för livet: egna program,
   vardagsplanering, källkritik och skapande.
 - Viktlaboratorium, veckobudgetkalkylator och nedladdningsbar OpenSCAD-modell.
