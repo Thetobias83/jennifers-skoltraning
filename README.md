@@ -11,8 +11,9 @@ Innehåll:
 - Ämnesträning, repetition av missade frågor och övningsprov med facit efteråt.
 - B, B96/BE, C/CE, YKB och grundläggande transportteori.
 - Basövningar i gymnasiegemensamma ämnen.
-- C++, AI och 3D-print som egna tillägg.
-- Viktlaboratorium, förbrukningskalkylator och nedladdningsbar OpenSCAD-modell.
+- C++, AI och 3D-print som fristående kunskaper för livet: egna program,
+  vardagsplanering, källkritik och skapande.
+- Viktlaboratorium, veckobudgetkalkylator och nedladdningsbar OpenSCAD-modell.
 - Förslag till 36 träningsveckor, egna anteckningar och sparade framsteg.
 
 Vretas publicerade Gy25-plan är underlag. Den fördelar inte ämnen per årskurs.
