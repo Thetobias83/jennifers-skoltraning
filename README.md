@@ -7,6 +7,9 @@ Källänkar och en eventuell extern AI-tjänst kräver internet.
 
 Innehåll:
 - 46 korta lektioner och 149 egenproducerade frågor med förklaringar.
+- Lärvägar A–D: 18 lättlästa ämnesguider med ordlistor, exempel och 90 öppna träningsuppgifter.
+- Egna svar och reflektioner per träningssteg; svarsstöd och länkar till betygskriterier.
+- Separata stödsektioner för gymnasiearbete (E/F), individuellt val och APL.
 - Dagens pass: 7 frågor om fordon/transport och 3 från övriga spår.
 - Ämnesträning, repetition av missade frågor och övningsprov med facit efteråt.
 - B, B96/BE, C/CE, YKB och grundläggande transportteori.
@@ -27,7 +30,7 @@ C++-kod kompileras inte i sidan. AI-stödet skapar instruktioner att kopiera;
 ingen AI-tjänst är inkopplad.
 
 SPARA OCH FLYTTA
-Resultat och anteckningar sparas lokalt i den webbläsare som används.
+Resultat, anteckningar och öppna träningssvar sparas i den webbläsare som används.
 Under Framsteg kan du exportera en JSON-säkerhetskopia och importera den
 på en annan enhet. Exportera regelbundet, särskilt före byte av webbläsare,
 filens plats eller rensning av webbläsardata. Lokal filsparning kan fungera
