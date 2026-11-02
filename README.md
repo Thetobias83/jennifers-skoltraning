@@ -6,8 +6,13 @@ Hela träningssidan ligger i en enda fil och fungerar utan internet.
 Källänkar och en eventuell extern AI-tjänst kräver internet.
 
 Innehåll:
-- 55 lektioner och 1 447 egenproducerade flervalsfrågor med förklaringar.
-- Alla 21 fordonslektioner har minst 100 frågor totalt: minst 63 flervalsfrågor och 40 öppna frågor per lektion.
+- Genomgångna exempel i alla 55 lektioner och korta lässtycken.
+- Egna sparade svar per öppen fråga samt export till textfil och säkerhetskopia.
+- 40 nya fall- eller räknefrågor per fordonslektion. Närliggande lektioner kan återanvända fall för repetition.
+- Excel-underlag med 30 påhittade inköp, arbetsgång och kontrollsummor.
+- Mobilmeny för direkt val av avsnitt och frågepass upp till 100 frågor.
+- 55 lektioner och 2 323 egenproducerade flervalsfrågor med förklaringar.
+- Alla 21 fordonslektioner har 103–104 flervalsfrågor vardera, utöver 40 öppna frågor per lektion.
 - Alla lektioner har öppna frågor med svarsstöd, utöver de 90 uppgifterna i ämnesguiderna.
 - Office: Word, Excel, PowerPoint, Outlook och filhantering från grund till fördjupning.
 - Vuxenkunskap: lön, skatt, deklaration, budget, lån, konsumenträtt, aktieskola och digital trygghet.
