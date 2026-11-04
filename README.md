@@ -6,13 +6,17 @@ Hela träningssidan ligger i en enda fil och fungerar utan internet.
 Källänkar och en eventuell extern AI-tjänst kräver internet.
 
 Innehåll:
-- Genomgångna exempel i alla 55 lektioner och korta lässtycken.
+- Ämnesanalys av 26 områden med tillägg och kvarvarande kunskapsluckor.
+- Fördjupningar i 12 befintliga lektioner, med ytterligare 72 flervalsfrågor.
+- Jägarexamen: 16 introduktionskapitel, 96 egna flervalsfrågor och 48 öppna frågor.
+- Blandat träningspass för jägarexamen med 70 egna frågor och fyra svarsalternativ.
+- Genomgångna exempel i alla 71 lektioner och korta lässtycken.
 - Egna sparade svar per öppen fråga samt export till textfil och säkerhetskopia.
 - 40 nya fall- eller räknefrågor per fordonslektion. Närliggande lektioner kan återanvända fall för repetition.
 - Excel-underlag med 30 påhittade inköp, arbetsgång och kontrollsummor.
 - Mobilmeny för direkt val av avsnitt och frågepass upp till 100 frågor.
-- 55 lektioner och 2 323 egenproducerade flervalsfrågor med förklaringar.
-- Alla 21 fordonslektioner har 103–104 flervalsfrågor vardera, utöver 40 öppna frågor per lektion.
+- 71 lektioner och 2 491 egenproducerade flervalsfrågor med förklaringar.
+- Alla 21 fordonslektioner har minst 103 flervalsfrågor vardera, utöver 40 öppna frågor per lektion.
 - Alla lektioner har öppna frågor med svarsstöd, utöver de 90 uppgifterna i ämnesguiderna.
 - Office: Word, Excel, PowerPoint, Outlook och filhantering från grund till fördjupning.
 - Vuxenkunskap: lön, skatt, deklaration, budget, lån, konsumenträtt, aktieskola och digital trygghet.
@@ -46,6 +50,11 @@ på en annan enhet. Exportera regelbundet, särskilt före byte av webbläsare,
 filens plats eller rensning av webbläsardata. Lokal filsparning kan fungera
 olika i olika webbläsare; exporten är den flyttbara säkerhetskopian.
 
-Uppdaterad 2 november 2026. Granskningsomfattning och preciseringar finns under Faktakontroll. Källor och avgränsningar
+Uppdaterad 4 november 2026. Granskningsomfattning och preciseringar finns under Faktakontroll. Källor och avgränsningar
 finns under Kursplan & källor i sidan. Kontrollera alltid aktuella regler
 och tillverkarens anvisningar inför verklig användning.
+
+Jägarexamen är ett kompletterande teoretiskt studiestöd. Artbilder, ljud,
+mer omfattande artkunskap samt praktisk utbildning behöver kompletteras.
+Frågorna är egenproducerade och är inte officiella provfrågor.
+Detaljerad genomlysning: Amnesgenomlysning-2026-11-04.md.
